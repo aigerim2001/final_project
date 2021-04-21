@@ -1,2 +1,2 @@
 # Final project in Python programming language
-##Project name: Search history
+Project name: Search history
